@@ -22,11 +22,7 @@ import matplotlib.pyplot as plt
 from statsmodels.tsa.arima.model import ARIMA
 
 # Create the student performance dataset
-data = {
-    'StudentID': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
-    'Name': ['John', 'Sarah', 'Alex', 'Michael', 'Emma', 'Olivia', 'Daniel', 'Sophia', 'James', 'Isabella'],
-    'FinalGrade': [80, 87, 68, 92, 85, 90, 62, 78, 72, 88]
-}
+df = pd.read_csv('/content/student_performance.csv')
 
 df = pd.DataFrame(data)
 
