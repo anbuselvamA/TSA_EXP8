@@ -2,8 +2,6 @@
 # Reg no : 212222240009
 # Ex.No: 08     MOVINTG AVERAGE MODEL AND EXPONENTIAL SMOOTHING
 ### Date: 
-
-
 ### AIM:
 To implement Moving Average Model and Exponential smoothing Using Python.
 ### ALGORITHM:
@@ -62,18 +60,8 @@ plt.show()
 # Final Grade
 
 ![Untitled](https://github.com/user-attachments/assets/1a7d8270-1962-421e-bb02-24322642dadd)
-```
-Moving Average Model Predictions for next 5 students:
- 10    82.468068
-11    80.056671
-12    80.069559
-13    80.069559
-14    80.069559
-```
-Name: predicted_mean, dtype: float64
 # Moving Average Model Forecast
 ![Untitled](https://github.com/user-attachments/assets/90f949f1-6f0c-4867-b73f-f0ad8a701977)
-
 
 ### RESULT:
 Thus the have successfully implemented the Moving Average Model and Exponential smoothing using python.
